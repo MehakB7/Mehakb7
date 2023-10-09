@@ -3,6 +3,12 @@
 
 - 🔭 I’m currently working in Winux Software solutions.
 - 🌱 Exploring Backend technologies
+
+  Languages: Javascript, Typescript, HTML, CSS, C++
+  Frontend : React-js, Redux, RTQ, Graphql
+  Backend : Node-js, Express, MongoDB
+
+  
   
   
   
