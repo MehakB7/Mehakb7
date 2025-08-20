@@ -1,11 +1,16 @@
-### Hi there 👋 I'm Mehak.
- I'm an Frontend developer and worked on React and Node. On my way to become fullstack developer. 
-- 🌱 Exploring Backend technologies
+## Hi there 👋 I'm Mehak
+I'm a **Frontend Developer** exploring my path toward becoming a Fullstack Engineer.
+Currently diving deeper into Backend technologies and Generative AI 🚀
 
-  Languages: Javascript, Typescript, HTML, CSS, C++
-  Frontend : React-js, Redux, RTQ, Graphql
-  Backend : Node-js, Express, MongoDB
+🌱 Learning: Backend Development + Generative AI
 
+✍️ I write technical articles on dev.to
+
+💻 Languages: JavaScript, TypeScript, HTML, CSS, C++
+
+🎨 Frontend: React.js, Redux, RTK Query, GraphQL
+
+🛠 Backend: Node.js, Express, MongoDB
   
   
   
